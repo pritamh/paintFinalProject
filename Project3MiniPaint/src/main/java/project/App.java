@@ -1,4 +1,5 @@
 package project;
+
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
@@ -8,8 +9,8 @@ import javafx.stage.Stage;
 import java.io.IOException;
 
 /**
- * Name:  
- * Username: 
+ * Name:
+ * Username:
  */
 public class App extends Application {
 
